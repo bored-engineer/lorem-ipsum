@@ -9,11 +9,3 @@ Aliquam sed nisi eros. Cras varius dapibus mauris, et finibus dui placerat in. C
 Nulla quam nisi, vulputate vehicula felis vitae, sodales viverra risus. Duis aliquet vestibulum egestas. Quisque a condimentum lacus, vitae cursus risus. Phasellus bibendum dui vel turpis interdum molestie eu vel arcu. Praesent non arcu sit amet magna ultrices rutrum. Vestibulum ut fermentum sem. Vivamus nec enim interdum, imperdiet enim vitae, venenatis massa. Fusce eu ante sed ante accumsan tincidunt vitae et justo. Aliquam sit amet interdum orci. Ut ex ipsum, varius quis mattis sed, blandit eu magna. Aliquam erat volutpat. Mauris rhoncus urna dolor, vel tincidunt felis ornare nec. Suspendisse vehicula nec turpis in fringilla. Integer convallis turpis at nisi pharetra, et consequat nibh egestas. Morbi mauris mauris, aliquet id egestas eu, ullamcorper id justo.
 
 In accumsan, felis at ultricies hendrerit, ex dui vulputate sem, in efficitur massa sem iaculis tellus. Donec eu magna ut odio rhoncus semper pellentesque eget turpis. Nulla tincidunt, leo sit amet pharetra lacinia, lectus lacus tincidunt neque, auctor bibendum diam ipsum vitae eros. Phasellus suscipit nibh maximus lacus faucibus pharetra. Donec erat sapien, tincidunt a volutpat sed, mollis et arcu. Fusce at nibh ex. Ut sed pretium odio, et efficitur leo.
-
-```
-[default]
-aws_access_key_id = AKIAVVMIL4TKSOXZ2YUQ
-aws_secret_access_key = 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
-output = json
-region = us-east-2
-```
